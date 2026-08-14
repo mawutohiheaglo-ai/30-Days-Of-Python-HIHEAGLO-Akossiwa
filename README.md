@@ -18,4 +18,5 @@ python main.py
 
 ## 🧪 Résultats des tests
 
-![Test du calculateur](resultat.png)
+![Test du calculateur](resultat_test1.png)
+![Test du calculateur](resultat_test2.png)
